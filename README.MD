@@ -1,1 +1,1 @@
-This is a Terraform module for lambda
+This is a Terraform module for lambda by Richu
